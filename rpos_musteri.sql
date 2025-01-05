@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1
--- Üretim Zamanı: 15 Ara 2024, 12:10:43
+-- Üretim Zamanı: 05 Oca 2025, 19:02:02
 -- Sunucu sürümü: 10.4.32-MariaDB
 -- PHP Sürümü: 8.0.30
 
@@ -40,9 +40,9 @@ CREATE TABLE `rpos_musteri` (
 --
 
 INSERT INTO `rpos_musteri` (`müsteri_id`, `müsteri_adı`, `müsteri_telefono`, `müsteri_email`, ` müsteri_sifresi`) VALUES
-('06549ea58afd', 'Ana J. Browne', '4589698780', 'anaj@mail.com', '55c3b5386c486feb662a0785f340938f518d547f'),
-('1fc1f694985d', 'Jane Doe', '2145896547', 'janed@mail.com', 'a69681bcf334ae130217fea4505fd3c994f5683f'),
-('27e4a5bc74c2', 'Tammy R. Polley', '4589654780', 'tammy@mail.com', '55c3b5386c486feb662a0785f340938f518d547f');
+('1fc1f69498 5d1fc1f694985d', 'Ahmet Y?lmaz ', '5551234567 ', 'ahmet.yilmaz@example.com ', 'sifreahmet'),
+('1fc1f694985d', 'Ali Veli Güncel', '2145896547', 'janed@mail.com', 'a69681bcf334ae130217fea4505fd3c994f5683f'),
+('27e4a5bc74c2', 'Ahmet ', '4589654780', 'tammy@mail.com', '55c3b5386c486feb662a0785f340938f518d547f');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
